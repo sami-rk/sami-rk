@@ -47,5 +47,5 @@ Computer Engineering undergraduate at the **University of Tehran**, with hands-o
 
 ### 📊 GitHub Stats
  
-![Saman's GitHub stats](https://github-readme-stats-seven-orpin-90.vercel.app/api?username=sami-rk&show_icons=true&theme=default&hide_border=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats-seven-orpin-90.vercel.app/api/top-langs/?username=sami-rk&layout=compact&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats-seven-orpin-90.vercel.app/api?username=sami-rk&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" alt="Saman's GitHub stats" height="165"/>
+<img src="https://github-readme-stats-seven-orpin-90.vercel.app/api/top-langs/?username=sami-rk&layout=compact&hide_border=true&cache_seconds=86400" alt="Top Langs" height="165"/>
